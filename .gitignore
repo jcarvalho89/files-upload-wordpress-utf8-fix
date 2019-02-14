@@ -1,3 +1,4 @@
 /imagens
 /2012
+logs/*
 !logs/.gitkeep
