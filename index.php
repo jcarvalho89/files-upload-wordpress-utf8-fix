@@ -1,6 +1,6 @@
 <?php
 /**
- * script para renomeação de arquivos com problemas de acentuação UTF-8*
+ * script para renomeação de arquivos com problemas de acentuação UTF-8 na pasta wp-content/uploads do WordPress*
  */
 
 /**
